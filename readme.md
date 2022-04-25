@@ -1,4 +1,2 @@
-* Download zip or clone repository.
-* unzip package.
-* Go to chrome extensions and load unziped folder.
-* Enjoy :)
+Download & Install from Google Chrome Web Store
+https://chrome.google.com/webstore/detail/ping-pong-pro/dgcpabogbpfgndfnfhjkhkjaniaigclf
